@@ -12,7 +12,7 @@ github_repo: "https://github.com/guoqia01486/guoqiang01486.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "莫等闲 白了少年头"
-sidebar-avatar: /img/internet-gq-photo.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/internet-gq-photo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
