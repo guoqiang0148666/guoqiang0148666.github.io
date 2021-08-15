@@ -4,10 +4,10 @@ SEOTitle: 我的博客 | GQ Blog
 header-img: img/post-bg-desk.jpg
 email: 329013203@qq.com
 description: "My Blog"
-keyword: "DUT, linux, python, computer vision"
-url: "http://guoqiang01486.github.io"          # your host, for absolute URL
+keyword: "DUT, linux, python, computer vision, deep learning"
+url: "http://guoqiang0148666.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/guoqia01486/guoqiang01486.github.io.git" # you code repository
+github_repo: "https://github.com/guoqia0148666/guoqiang0148666.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/internet-gq-photo.jpg      # use absolute URL, seeing it's 
 RSS: false
 # weibo_username:     qiubaiying
 #zhihu_username:     qiubaiying
-github_username:    guoqiang01486
+github_username:    guoqiang0148666
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 7fb3c22506c0c03d2089 #生成的clientID
-  clientSecret: be377366f87c1d1805b9f01702ce21d7abb1c755 #生成的clientSecret
-  repo: guoqiang01486.github.io    #仓库名称
-  owner: guoqiang01486    #github用户名
-  admin: guoqiang01486
+  clientID: 34f82e5e3701703f1825 #生成的clientID
+  clientSecret: 02db93f85dba6ece07794a36e4d3952b55be1aca #生成的clientSecret
+  repo: guoqiang0148666.github.io    #仓库名称
+  owner: guoqiang0148666    #github用户名
+  admin: guoqiang0148666
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -74,14 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-#ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: c514af72dc2b4fbd0051f2a1cf6911a9
 
 # Google Analytics
-ga_track_id: 'UA-116659850-1'           # Format: UA-xxxxxx-xx
-ga_domain: auto                         # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
-
-
-
+#ga_track_id: 'UA-116659850-1'           # Format: UA-xxxxxx-xx
+#ga_domain: auto                         # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 # Featured Tags
